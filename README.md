@@ -18,20 +18,20 @@
 
 
 
-## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<h2>Tecnologias</h2>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
+</p>
+<h2> Projeto</h2>
 
-## 💻 Projeto
+<p>O MarkLink's é um agregador de links para usar como cartão de visitas online.
 
-O MarkLink's é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)</p>
 
 
 ## Licença
